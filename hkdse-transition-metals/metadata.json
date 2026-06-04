@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Transition Metals",
+  "description": "An interactive periodic table, trend visualizer, and exam quiz engine tailored for HKDSE Chemistry students studying d-block transition metals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
